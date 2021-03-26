@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <th width=10%, bgcolor=yellow >项目</th>
-    <th width=40%, bgcolor=yellow>人员</th>
-    <th width="50%", bgcolor=yellow>姓名</th>
-     <th width="50%", bgcolor=yellow>分工</th>
+    <th bgcolor=yellow >项目</th>
+    <th  bgcolor=yellow>人员</th>
+    <th  bgcolor=yellow>姓名</th>
+     <th  bgcolor=yellow>分工</th>
   </tr>
   <tr>
     <td bgcolor=#eeeeee rowspan="4"> -l </td>
@@ -36,5 +36,4 @@
     <td> 负责项目答辩 </td>
   </tr>
 </table>
-————————————————
 
