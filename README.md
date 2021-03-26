@@ -13,7 +13,7 @@
     <th width="50%", bgcolor=yellow>备注</th>
   </tr>
   <tr>
-    <td bgcolor=#eeeeee colspan="4"> -l </td>
+    <td bgcolor=#eeeeee rowspan="2"> -l </td>
     <td> use a long listing format  </td>
     <td> 以长列表方式显示（显示出文件/文件夹详细信息）  </td>
   </tr>
